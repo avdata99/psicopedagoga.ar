@@ -50,8 +50,8 @@ dfn {
 }
 
 h1 {
-    font-size: 2em;
-    margin: 0.67em 0
+    font-size: 1.7em;
+    margin: 0.47em 0
 }
 
 mark {
@@ -60,7 +60,7 @@ mark {
 }
 
 small {
-    font-size: 80%
+    font-size: 90%
 }
 
 sub, sup {
@@ -266,7 +266,7 @@ body {
 }
 
 .huge, h1 {
-    font-size: 68px;
+    font-size: 58px;
     line-height: 1.05;
     letter-spacing: -1px
 }
@@ -287,7 +287,7 @@ body {
 }
 
 .small, small {
-    font-size: 10px;
+    font-size: 14px;
     line-height: 1.2
 }
 
@@ -417,7 +417,7 @@ svg path {
     position: relative;
     width: 1440px;
     max-width: 95%;
-    height: 600px;
+    height: 700px;
     margin: 30px auto;
     background-color: #efefef;
     overflow: hidden
@@ -523,7 +523,7 @@ svg path {
 
 .bloque1 .wrapper .welcome h1 {
     margin-top: 0;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     font-size: 42px;
     font-family: "Raleway", Helvetica, sans-serif;
     font-weight: 100
@@ -531,14 +531,14 @@ svg path {
 
 @media (max-width: 640px) {
     .bloque1 .wrapper .welcome h1 {
-        margin-bottom: 20px;
-        font-size: 30px
+        margin-bottom: 10px;
+        font-size: 25px
     }
 }
 
 .bloque1 .wrapper .welcome p {
-    max-width: 450px;
-    margin-bottom: 30px
+    max-width: 95%;
+    margin-bottom: 20px
 }
 
 @media (max-width: 1180px) {
